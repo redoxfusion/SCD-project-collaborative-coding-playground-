@@ -1,2 +1,2 @@
-# SCD-project-collaborative-coding-playground-
+# SCD-Object-detection-system
 CLASS PROJECT
